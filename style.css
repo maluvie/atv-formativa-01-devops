@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,100..900&display=swap');
 
 :root {
-    --branco-principal: #FFFFFF;
-    --cinza-secundario: #C0C0C0;
-    --botao-azul: #6627F8;
-    --cor-de-fundo: #00030C;
+    --branco-principal: #cfe5cc;
+    --cinza-secundario: hsl(0, 0%, 75%);
+    --botao-azul: #1b4793;
+    --cor-de-fundo: #061123;
     --fonte-principal: "Inter";
-    --botao-azul-efeito: #F8D827;
+    --botao-azul-efeito: #f7b0be;
 }
 
 * {
